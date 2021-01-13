@@ -1,0 +1,23 @@
+autora
+chaves
+comentarista
+corporal
+declaradora
+descritiva
+inicializadora
+italica
+italica motor
+lista ordenada
+lista pontilhada
+negrito
+negrito motor
+quebra linha
+paragrafo
+pixels
+redirecionadora
+referenciadora css
+referenciadora caractere
+rotuladora
+teorica
+titular
+tracejadora
