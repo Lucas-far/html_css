@@ -1,4 +1,5 @@
 autora
+card responsivo
 chaves
 comentarista
 corporal

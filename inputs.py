@@ -1,7 +1,7 @@
 
 
 """
-Módulo:
+Módulo: inputs.py
 
 Objetivo:
 """
