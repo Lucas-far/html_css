@@ -1,10 +1,11 @@
 autora
-card responsivo
 chaves
 comentarista
 corporal
 declaradora
 descritiva
+exemplo de card
+exemplo de menu
 inicializadora
 italica
 italica motor
